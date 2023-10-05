@@ -2,8 +2,8 @@
 
 ## Lehrziele:
   - Anweisungen
-  - Umwandeln von Zeichenkettenin Gleitkommazahlen(ohne Fehlerbehandlung)
-  - Einfache Verzweigungen(optional)
+  - Umwandeln von Zeichenkettenin Gleitkommazahlen (ohne Fehlerbehandlung)
+  - Einfache Verzweigungen (optional)
 
 # Aufgabenstellung
 Der User wird aufgefordert, über die Tastatur den derzeitigen Verkaufspreis eines Grundnahrungsmittels einzugeben. Das Programm ermittelt daraus auf Basis des derzeitigen Mehrwertsteuersatzes von 10% den Nettopreis und die angefallene Mehrwertsteuer.
